@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ObstLotse</string>
+    <string name="toggle_button_fruit">Obst</string>
+    <string name="toggle_button_veggies">Gemüse</string>
+
+    <string name="fruit_banana">Banane</string>
+    <string name="veggie_potato">Kartoffel</string>
+</resources>
